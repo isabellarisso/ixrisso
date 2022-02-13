@@ -2,7 +2,9 @@
 <h3 align="center">I'm a Front end Developer and Graphic Designer</h3>
 <br />
 <div align="center">
-👨‍💻 My portfolio is  [under construction](https://github.com/ixrisso)
+
+👨‍💻 My portfolio is  [under construction](https://github.com/ixrisso/)
+  
 </div>
 
 <h3 align="center">Let´s connect!</h3>
