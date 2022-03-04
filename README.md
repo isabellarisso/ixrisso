@@ -3,7 +3,7 @@
 <br />
 <div align="center">
 
-👨‍💻 My portfolio is  [under construction](https://github.com/ixrisso/)
+👨‍💻 My portfolio is  [under construction](https://irisso.netlify.app/)
   
 </div>
 
