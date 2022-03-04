@@ -13,7 +13,7 @@
 </p>
 
 
-<h3 align="center">Some Languages you can find here :)</h3>
+<h3 align="center">Some Languages and Tools you can find here :)</h3>
 <p align="center">
 <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
 <a href="https://firebase.google.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a>
